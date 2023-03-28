@@ -13,4 +13,5 @@
   /* чтобы элементы внутри позиционировать абсолютно */
   display: flex;
   background-color: #f2f2f2;
+  overflow: hidden;
 }
